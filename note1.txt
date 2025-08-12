@@ -1,0 +1,4 @@
+# Main Notes
+This is the main content of the project.
+Version: 1.0
+Author: Tổng Đạt

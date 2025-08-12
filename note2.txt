@@ -1,0 +1,3 @@
+# Supporting Notes
+These are extra notes related to the project.
+Remember to update the main note regularly.
